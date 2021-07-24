@@ -8,10 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+         hey my name is septi
         </p>
     <p>
-      Learning React nih test real time
+      this is skeleton for ecommerce app
       
     </p>
       </header>
